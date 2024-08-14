@@ -1,15 +1,15 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennisv1.vercel.app/)
-<h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">A passionate  Frontend Web Developer and Tech Enthusiast from Kerala,India</h3>
+<h1 align="center">Hey 👋, I'm Nikitha</h1>
+<h3 align="center">An aspiring technocrat with special interests in Game development.</h3>
 
 
- <p align="center"><a href="https://github.com/alvin-dennis/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/Nikitha S Nair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
 
 ###
 <br>
 <hr>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/alvin-dennis/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Nikitha S Nair/count.svg?"  />
 </div>
 <br/>
 <div align="center">
@@ -19,7 +19,7 @@
 ###
 
 
-<p align="center"><a href="https://alvindennis.vercel.app/">Portfolio↗️</a></p>
+<p align="center"><a href="https://nikitha s nair.vercel.app/">Portfolio↗️</a></p>
 
 
 
@@ -33,7 +33,7 @@
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://alvin-dennis.vercel.app)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://nikitha s nair.vercel.app)
 
 
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/React.JS%20and%20Typescript%20-%23563D7C?style=for-the-badge) 
