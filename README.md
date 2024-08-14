@@ -3,13 +3,13 @@
 <h3 align="center">An aspiring technocrat with special interests in Game development.</h3>
 
 
- <p align="center"><a href="https://github.com/Nikitha S Nair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Game developer=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/NikithaSNair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Game developer=true&width=500&height=30"></a></p>
 
 ###
 <br>
 <hr>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nikitha S Nair/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/NikithaSNair/count.svg?"  />
 </div>
 <br/>
 <div align="center">
@@ -19,12 +19,12 @@
 ###
 
 
-<p align="center"><a href="https://nikitha s nair.vercel.app/">Portfolio↗️</a></p>
+<p align="center"><a href="https://nikithasnair.vercel.app/">Portfolio↗️</a></p>
 
 
 
 <br>
-<!-- <style></style> 
+ <style></style> 
 
 
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Nikitha S Nair/Nikitha S Nair/master/assets/snake.svg)
+![](https://raw.githubusercontent.com/NikithaSNair/NikithaSNair/master/assets/snake.svg)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -88,14 +88,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nikitha s nair&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nikithasnair&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha s nair&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikithasnair&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nikitha s nair&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nikithasnair&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -103,7 +103,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitha s nair&theme=onedark" alt="nikitha s nair" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikithasnair&theme=onedark" alt="nikitha s nair" /></a> </p>
 
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha s nair&theme=react-dark" alt="Nikitha S Nair"/>
