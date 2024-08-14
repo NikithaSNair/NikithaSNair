@@ -1,4 +1,4 @@
-<!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennisv1.vercel.app/)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://alvindennisv1.vercel.app/)
 <h1 align="center">Hey 👋, I'm Nikitha</h1>
 <h3 align="center">An aspiring technocrat with special interests in Game development.</h3>
 
@@ -83,7 +83,7 @@
 
 <p align="center">
 
-  <!--- stats (start) 
+   stats (start) 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -124,7 +124,7 @@
 <br>
 
 <div></div>
-</div> -->
+</div> 
 
 <!---
 NikithaSNair/NikithaSNair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
