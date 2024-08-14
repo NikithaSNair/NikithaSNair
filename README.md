@@ -12,9 +12,7 @@
   <img src="https://profile-counter.glitch.me/NikithaSNair/count.svg?"  />
 </div>
 <br/>
-<div align="center">
-<img src="https://dcbadge.limes.pink/api/shield/732503927940972605?theme=default-inverted"/>
-</div>
+
 
 ###
 
@@ -23,17 +21,12 @@
 
 
 
-<br>
- <style></style> 
-
-
-
 <img align="right" alt="Coding"  width="320" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)](https://nikitha s nair.vercel.app)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)![portfolio](https://img.shields.io/badge/Web%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)
 
 
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/React.JS%20and%20Typescript%20-%23563D7C?style=for-the-badge) 
@@ -63,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,vscode,linux,,python,arduino,c,github,discord,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,python,arduino,c,github,discord,selenium&perline=8" />
   </a>
 </p>
 
@@ -83,19 +76,20 @@
 
 <p align="center">
 
-   stats (start) 
+   <!-- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nikithasnair&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NikithaSNair&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikithasnair&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikithaSNair&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nikithasnair&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=n
+   NikithaSNair&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -103,10 +97,10 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikithasnair&theme=onedark" alt="nikitha s nair" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NikithaSNair&theme=onedark" alt="nikitha s nair" /></a> </p>
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha s nair&theme=react-dark" alt="Nikitha S Nair"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=NikithaSNair&theme=react-dark" alt="Nikitha S Nair"/>
 </div>
 
 
