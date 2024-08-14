@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring technocrat with special interests in Game development.</h3>
 
 
- <p align="center"><a href="https://github.com/Nikitha S Nair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Freelancer;Tech+Enthusiast;UI/UX+Designer&center=true&width=500&height=30"></a></p>
+ <p align="center"><a href="https://github.com/Nikitha S Nair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Game developer=true&width=500&height=30"></a></p>
 
 ###
 <br>
@@ -50,12 +50,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="left"> Socials</h3>
-<a href="https://linkedin.com/in/alvin-dennis-0a70ba163" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://instagram.com/_a.lvin._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alvindennis80" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-<a href="https://discord.gg/732503927940972605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alvin Dennis" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/nikitha-s-nair-b111882b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikitha S Nair" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_nikitha_santhosh._?igsh=MWQ2MDhwM28zeWxweQ=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikitha S Nair" height="30" width="40" /></a>
+<a
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -66,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,react,vite,vercel,vscode,tailwind,javascript,typescript,markdown,linux,html,css,latex,python,django,arduino,c,git,github,figma,firebase,githubactions,mongodb,mysql,netlify,nodejs,powershell,notion,discord,astro,postman,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=,vscode,linux,,python,arduino,c,github,discord,selenium&perline=8" />
   </a>
 </p>
 
@@ -74,7 +71,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/alvin-dennis/alvin-dennis/master/assets/snake.svg)
+![](https://raw.githubusercontent.com/Nikitha S Nair/Nikitha S Nair/master/assets/snake.svg)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -91,14 +88,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alvin-dennis&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nikitha s nair&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
   <br></br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvin-dennis&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha s nair&theme=midnight-purple&hide_border=false" alt="GitHub Streaks"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvin-dennis&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nikitha s nair&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
   </td>
 </tr>
@@ -106,10 +103,10 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-dennis&theme=onedark" alt="alvin-dennis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitha s nair&theme=onedark" alt="nikitha s nair" /></a> </p>
 
 <div align="center">
-  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=alvin-dennis&theme=react-dark" alt="Alvin Dennis"/>
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha s nair&theme=react-dark" alt="Nikitha S Nair"/>
 </div>
 
 
