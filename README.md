@@ -26,7 +26,7 @@
 <picture><img width = "30" align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></picture><b> About Me</b>
 
 
- ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)![portfolio](https://img.shields.io/badge/game%20development%20prowess%20-%231877F2?style=for-the-badge&logoColor=white)
+ ![](https://img.shields.io/badge/🔭%20I’m%20currently%20working%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)![portfolio](https://img.shields.io/badge/game%20development%20-%231877F2?style=for-the-badge&logoColor=white)
 
 
  ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/Python%20and%20Unity%20-%23563D7C?style=for-the-badge) 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,python,arduino,c,github,discord,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,python,arduino,c,github,discord&perline=8" />
   </a>
 </p>
 
