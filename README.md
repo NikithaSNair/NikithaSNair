@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,python,c,github,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,python,c,github,discord,html,css,java,MySQL plus,pl/sql&perline=8" />
   </a>
 </p>
 
