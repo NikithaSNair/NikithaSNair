@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://nikithasnair1.vercel.app/)
-<h1 align="center">Hey 👋, I'm Nikitha</h1>
-<h3 align="center">An aspiring technocrat with special interests in Game development.</h3>
+<h1 align="center">Hello people 👋, I'm Nikitha</h1>
+<h3 align="center">An aspiring technocrat with special interests in web dev, cloud computing and still figuring out.</h3>
 
 
  <p align="center"><a href="https://github.com/NikithaSNair/"><img src="https://readme-typing-svg.herokuapp.com?lines=Game developer=true&width=500&height=30"></a></p>
