@@ -33,7 +33,7 @@ Crafting on the web, scaling the cloud, and thriving in the unknown. 🌙👩‍
 
 <h3 align="left"> My Socials</h3>
 <a href="https://www.linkedin.com/in/nikitha-s-nair-b111882b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <p align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikitha S Nair" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nikitha_santhosh.?igsh=MWQ2MDhwM28zeWxweQ=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikitha S Nair" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nikitha_santhoshh_?igsh=MWQ2MDhwM28zeWxweQ=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikitha S Nair" height="30" width="40" /></a>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
