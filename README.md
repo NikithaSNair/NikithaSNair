@@ -3,82 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nikitha S Nair | Portfolio</title>
-  <!-- Tailwind CSS CDN for styling -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-body {
-      font-family: 'Inter', sans-serif;
-      background-color: #0D1117;
-      color: #E2E8F0;
-      overflow-x: hidden;
-    }
-   /* Starfield canvas background */
-    #starfield {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-    }
-/* Custom fade-in animations for a sleek entrance */
-    .fade-in {
-      opacity: 0;
-      animation: fadeIn 1s ease-out forwards;
-      animation-delay: var(--delay, 0s);
-    }
-    @keyframes fadeIn {
-      to {
-        opacity: 1;
-      }
-    }
-    .slide-in-up {
-      opacity: 0;
-      transform: translateY(20px);
-      animation: slideInUp 0.8s ease-out forwards;
-      animation-delay: var(--delay, 0s);
-    }
-    @keyframes slideInUp {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-    /* Floating text animation */
-    .float-text {
-      animation: float 4s ease-in-out infinite;
-    }
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
-      100% { transform: translateY(0px); }
-    }
-    /* Additional custom styles */
-    .card {
-      background-color: rgba(13, 17, 23, 0.7);
-      border: 1px solid rgba(226, 232, 240, 0.1);
-      backdrop-filter: blur(8px);
-    }
-    .line-divider {
-      background-color: rgba(226, 232, 240, 0.2);
-    }
-    h1, h2, h3 {
-      font-weight: 700;
-    }
-    .project-link:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body class="p-4 md:p-8">
-
-<canvas id="starfield"></canvas>
-
 <div class="max-w-4xl mx-auto space-y-12">
-
-
   <header class="text-center space-y-4 fade-in" style="--delay: 0.2s;">
     <h3 class="text-xl md:text-2xl font-semibold text-gray-300 float-text" align="center">It's Half code and half chaos.</h3>
     <p class="text-lg md:text-xl text-gray-400" align="center">Crafting on the web, scaling the cloud, and thriving in the unknown. 🌙👩‍💻☁️</p>
